@@ -1,0 +1,40 @@
+Questions
+question: "An array the same as an ArrayList (true/false)"
+answer: "false"
+
+question: "Strings are immutable? (true/false)"
+answer: "true"
+
+question: "You must use the new keyword to create a String object (true/false)"
+answer: "false"
+
+question:   "What kind of inheritance is not allowed in java (one word)"
+answer:	    "multiple"
+
+question:   "Does a subclass inherit both member variables and methods?(Yes/No)"
+answer:	    "multiple"
+
+
+Multiple Choice Questions:
+question:   "A class Animal has a subclass Mammal. Which of the following is true: "
+answer:	    "b"
+choices:    "a. Because of single inheritance, Mammal can have no subclasses."
+			"b. Because of single inheritance, Mammal can have no other parent than Animal. "
+			"c. Because of single inheritance, Animal can have only one subclass. "
+
+	   
+question: "What does immutable mean?",
+answer: "b"
+choices: "a)A String is an instance of an object."
+		 "b)Once created the object's data cannot be changed"
+		 "c)String class objects can be used in any application"
+
+Short Answer Questions
+
+question: "What is a static dat member?",
+answer: "A variable that belong to the class and not the object",
+keywords: "variable","class","object"
+
+question: "What is the purpose of a constructor?",
+answer: "To create objects and initialize their data"
+keywords: "create","initialize", "object"
